@@ -1,0 +1,2 @@
+# Building a logistic regression classifier from the ground up
+This repo contains the Jupyter notebook used to build the associated blog post: [Building a logistic regression classifier from the ground up](http://inmachineswetrust.com/posts/building-logistic-regression/) 
